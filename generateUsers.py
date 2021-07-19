@@ -1,10 +1,12 @@
 import pandas as pd
-import os
 import shutil
 import re
 import urllib
-import os
 from os import listdir
+from PIL import Image
+import os
+import PIL
+import glob
 
 persons = []
 
@@ -41,4 +43,10 @@ for caminho in caminhos:
     for person in persons:
       if arq == person[1]:
         os.rename(caminho + '/' + arq +'.jpg', caminho + '/' + person[0] +'.jpg')
+        fixed_height = 120
+        image = Image.open(caminho + '/' + person[0] +'.jpg')
+        height_percent = (fixed_height / float(image.size[1]))
+        width_size = int((float(image.size[0]) * float(height_percent)))
+        image = image.resize((width_size, fixed_height), PIL.Image.NEAREST)
+        image.save(caminho + '/' + person[0] +'.jpg')
 

@@ -1,25 +1,25 @@
-Fotograma/EFAF/6Ano/A
-Fotograma/EFAF/6Ano/B
-Fotograma/EFAF/6Ano/C
-Fotograma/EFAF/6Ano/D
-Fotograma/EFAF/7Ano/A
-Fotograma/EFAF/7Ano/B
-Fotograma/EFAF/7Ano/C
-Fotograma/EFAF/7Ano/D
-Fotograma/EFAF/7Ano/E
-Fotograma/EFAF/8Ano/A
-Fotograma/EFAF/8Ano/B
-Fotograma/EFAF/8Ano/C
-Fotograma/EFAF/8Ano/D
-Fotograma/EFAF/9Ano/A
-Fotograma/EFAF/9Ano/B
-Fotograma/EFAF/9Ano/C
-Fotograma/EFAF/9Ano/D
-Fotograma/EM/1Serie/A
-Fotograma/EM/1Serie/B
-Fotograma/EM/1Serie/C
-Fotograma/EM/2Serie/A
-Fotograma/EM/2Serie/B
-Fotograma/EM/2Serie/C
-Fotograma/EM/3Serie/A
-Fotograma/EM/3Serie/B
+Fotograma/EFAF/6Ano/Turma A
+Fotograma/EFAF/6Ano/Turma B
+Fotograma/EFAF/6Ano/Turma C
+Fotograma/EFAF/6Ano/Turma D
+Fotograma/EFAF/7Ano/Turma A
+Fotograma/EFAF/7Ano/Turma B
+Fotograma/EFAF/7Ano/Turma C
+Fotograma/EFAF/7Ano/Turma D
+Fotograma/EFAF/7Ano/Turma E
+Fotograma/EFAF/8Ano/Turma A
+Fotograma/EFAF/8Ano/Turma B
+Fotograma/EFAF/8Ano/Turma C
+Fotograma/EFAF/8Ano/Turma D
+Fotograma/EFAF/9Ano/Turma A
+Fotograma/EFAF/9Ano/Turma B
+Fotograma/EFAF/9Ano/Turma C
+Fotograma/EFAF/9Ano/Turma D
+Fotograma/EM/1Serie/Turma A
+Fotograma/EM/1Serie/Turma B
+Fotograma/EM/1Serie/Turma C
+Fotograma/EM/2Serie/Turma A
+Fotograma/EM/2Serie/Turma B
+Fotograma/EM/2Serie/Turma C
+Fotograma/EM/3Serie/Turma A
+Fotograma/EM/3Serie/Turma B
